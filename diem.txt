@@ -1,0 +1,6 @@
+Name: Dung , Student Code: 105190001, Subject: Math, Score: 10.0
+Name: Dung , Student Code: 105190001, Subject: Biology, Score: 9.0
+Name: Nam , Student Code: 105190002, Subject: Math, Score: 10.0
+Name: Nam , Student Code: 105190002, Subject: Biology, Score: 8.0
+Name: Hoa , Student Code: 105190003, Subject: Math, Score: 7.0
+Name: Hoa , Student Code: 105190003, Subject: Biology, Score: 9.0
